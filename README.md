@@ -40,7 +40,7 @@ I'm a Python developer passionate about building tools, games, and bots. Current
 
 ## 📫 Contact Me
 
-- GitHub: [github.com/yourusername](https://github.com/abdouch-dev)  
+- GitHub: [github.com/abdouch-dev](https://github.com/abdouch-dev)  
 
 ---
 
