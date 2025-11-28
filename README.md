@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&width=500&lines=Python+Developer+%7C+Discord+Bots+%7C+Pygame+%7C+Tkinter+%7C+Learning+AI/ML)](https://git.io/typing-svg)
 
-I'm a Python developer, Reverse Engineer
+I'm a Python developer passionate about building tools, games, and bots.  
+Currently exploring AI, Machine Learning, and Deep Learning.
 
 ---
 
