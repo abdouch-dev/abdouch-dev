@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Abdenour Cherfi
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&width=500&lines=Python+Developer+%7C+Learning+AI/ML)](https://git.io/typing-svg)
 
