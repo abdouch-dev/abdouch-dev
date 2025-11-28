@@ -31,7 +31,7 @@ Currently exploring AI, Machine Learning, and Deep Learning.
 | 💬 Discord Bot | Automation & moderation bot | Python, Discord.py |
 | 🎮 Pygame Mini-Games | Fun games built with Pygame | Python, Pygame |
 | 🛠 Tkinter Tools | Small utility applications | Python, Tkinter |
-| 🛡️ CS Tools | Encryption tools , Ethical Hacking tools maker | Python, C++ |
+| 🛡️ CS Tools | Encryption tools , Ethical Hacking tools | Python, C++ |
 | 🕹 Unity Game | 7 months learning Unity/C# | Unity, C# |
 
 
