@@ -39,7 +39,7 @@ Currently exploring AI, Machine Learning, and Deep Learning.
 
 ## 📈 GitHub Stats
 
-[![Abdenour Cherfi's GitHub Stats](https://gh-stats-gen.vercel.app/api?username=abdouch-dev&show_icons=true&theme=dark&count_private=true)](https://github.com/abdouch-dev)
+[![Abdenour Cherfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdouch-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 [![Top Langs](https://gh-stats-gen.vercel.app/api/top-langs/?username=abdouch-dev&layout=compact&theme=dark)](https://github.com/abdouch-dev)
 
