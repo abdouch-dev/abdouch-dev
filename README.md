@@ -38,10 +38,9 @@ Currently exploring AI, Machine Learning, and Deep Learning.
 ---
 
 ## 📈 GitHub Stats
-
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=abdouch-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-
-[![Top Langs](https://gh-stats-gen.vercel.app/api/top-langs/?username=abdouch-dev&layout=compact&theme=dark)](https://github.com/abdouch-dev)
+![](https://github-readme-stats.vercel.app/api?username=abdouch-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdouch-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdouch-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
